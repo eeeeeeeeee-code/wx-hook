@@ -30,7 +30,8 @@
 
 1.在 Releases，下载老版本的小程序文件，这里我下载的是8447.zip文件
 
-image-20240514102013002
+![image](https://github.com/eeeeeeeeee-code/wx-hook/assets/115862499/6f8f8faf-b8d2-462d-9b76-f0ebc25d50ed)
+
 2.退出微信，来到 %appdata%\Tencent\WeChat\XPlugin\Plugins\RadiumWMPF\ 文件夹，将新版小程序里面的文件清空，列如我这里是9129，将里面的文件清空
 
 ![image](https://github.com/eeeeeeeeee-code/wx-hook/assets/115862499/cab74171-4348-4506-bc8c-e315f10e89e1)
